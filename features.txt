@@ -1,3 +1,5 @@
 hello this is the text file in features branch
 Now merged with the main branch
 This line is for the testing of merge conflicts
+This is the testing of merge conflict in features branch
+
